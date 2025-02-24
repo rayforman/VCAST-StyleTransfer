@@ -4,8 +4,8 @@ V-CAST is an extension of the CAST (Contrastive Arbitrary Style Transfer) framew
 
 ## 💡 Inspiration
 
-<img src="/public/spiderverse.png" alt="Spiderverse" width="40%"/>
-<img src="/public/arts.png" alt="Arts" width="35%"/>
+<img src="/public/spiderverse.png" alt="Spiderverse" width="25%"/>
+<img src="/public/arts.png" alt="Arts" width="20%"/>
 
 This project was inspired by the many art styles present in Sony Pictures’ Spider-Man: Across the Spider-Verse (2023) which pushed the boundary of what is possible in stylized animation. With a proper video style transfer network more films could more easily incorporate mixed styles in their work. 
 
