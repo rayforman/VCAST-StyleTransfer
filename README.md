@@ -2,6 +2,9 @@
 
 V-CAST is an extension of the CAST (Contrastive Arbitrary Style Transfer) framework that enables real-time video style transfer. This application allows users to transform their videos using various artistic styles, similar to how popular image filters work, but for video content.
 
+See the paper, formalized, here:
+[V-Cast Full Report](./V-Cast_Report.pdf)
+
 ## 💡 Inspiration
 
 <img src="/public/spiderverse.png" alt="Spiderverse" width="45%" style="display: inline-block; margin-right: 10px"/><img src="/public/arts.png" alt="Arts" width="40%" style="display: inline-block"/>
